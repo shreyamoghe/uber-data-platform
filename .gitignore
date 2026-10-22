@@ -12,3 +12,4 @@ src/
 .DS_Store
 .python-version
 not_for_you/
+.idea/
